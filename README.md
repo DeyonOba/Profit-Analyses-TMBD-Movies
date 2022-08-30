@@ -15,6 +15,7 @@ This data set contains information of about 10,000 movies collected from The Mov
  ## Result
  
 These were some of the results gained after the project was completed.
+
 **The Top 5 most profitable movies**
 + Avatar
 + Star Wars: The Force Awakens
